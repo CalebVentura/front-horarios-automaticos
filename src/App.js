@@ -65,9 +65,8 @@ function App() {
                 </div>
 
                 <div className='text-center mt-3'>
-                    {/* <button className="btn btn-primary mt-3"> Generar</button> */}
-                    <Button variant="contained">GENERAR HORARIOS</Button>
-
+                    <button className="btn btn-primary mt-3"> GENERAR HORARIOS</button>
+                    {/* <Button variant="contained">GENERAR HORARIOS</Button> */}
                 </div>
 
                 <hr className='my-5' />
